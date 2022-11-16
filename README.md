@@ -1,4 +1,4 @@
-## Hey! I'm Lucas Rangel 👋
+### Hey! I'm Lucas Rangel 👋
 
 I'm a software developer based in Sao Paulo, BR.
 

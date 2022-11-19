@@ -2,7 +2,7 @@
 
 I'm a software developer based in Sao Paulo, BR.
 
-I develop sophisticated backend solutions using Python and Flask.
+I build sophisticated backend solutions using Python and TypeScript.
 
 I'm currently during a data engineering internship, creating and maintaining data pipelines and backend APIs using Python, Flask, Google Cloud, Docker, and so on.
 

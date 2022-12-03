@@ -12,4 +12,3 @@ You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/lucasrngl)
 - [GitHub](https://github.com/lucasfijf)
 - [Twitter](https://www.hackerrank.com/123lusk)
-- [HackerRank](https://www.hackerrank.com/lucasfijf)

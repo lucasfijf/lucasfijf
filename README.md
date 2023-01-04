@@ -2,13 +2,6 @@
 
 I'm a software developer based in Sao Paulo, BR.
 
-I build sophisticated backend solutions using Python and TypeScript.
+I've worked on several stacks, as the following: Python, Django, Flask, REST APIs, GCP, MongoDB, PostgreSQL, pytest, in addition to code versioning with Git. Self-taught, proactive, and always looking to improve products and ideas.
 
-I'm currently during a data engineering internship, creating and maintaining data pipelines and backend APIs using Python, Flask, Google Cloud, Docker, and so on.
-
-You can find me on:
-
-- [My website](https://lucasfijf.github.io)
-- [LinkedIn](https://www.linkedin.com/in/lucasrngl)
-- [GitHub](https://github.com/lucasfijf)
-- [Twitter](https://www.hackerrank.com/123lusk)
+You can find me on [LinkedIn](https://www.linkedin.com/in/lucasfijf)
